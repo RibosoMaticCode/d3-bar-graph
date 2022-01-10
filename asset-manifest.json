@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RibosoMaticCode/d3-bar-graph/static/css/main.058c6008.css",
+    "main.js": "/RibosoMaticCode/d3-bar-graph/static/js/main.a7a6cd1c.js",
+    "index.html": "/RibosoMaticCode/d3-bar-graph/index.html",
+    "main.058c6008.css.map": "/RibosoMaticCode/d3-bar-graph/static/css/main.058c6008.css.map",
+    "main.a7a6cd1c.js.map": "/RibosoMaticCode/d3-bar-graph/static/js/main.a7a6cd1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.058c6008.css",
+    "static/js/main.a7a6cd1c.js"
+  ]
+}
